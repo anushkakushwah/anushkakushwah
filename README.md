@@ -51,7 +51,7 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 
 <!-- BigQuery -->
-<img src="https://img.icons8.com/color/48/google-bigquery.png" width="40"/>
+<img src="https://img.icons8.com/color/48/bigquery.png" width="40"/>
 
 </p>
 
