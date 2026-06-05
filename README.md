@@ -24,7 +24,7 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 ## 💻 Tech Stack
 
 ### Languages and tools
-<p align="left">
+<p align="center">
 
 <!-- C -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
@@ -53,6 +53,12 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 <!-- BigQuery -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
 
+<!-- Anaconda -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50"/>
+
+<!-- Tableau (official icon via CDN fallback) -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="50"/>
+
 </p>
 
 ### Areas of Interest
@@ -62,16 +68,6 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 - Data Structures & Algorithms
 - Full Stack Development
 
-### Tools
-- Git & GitHub
-- MySQL
-- Power BI
-- Excel
-- VS Code
-- Jupyter Notebook
-- Tableau
-
----
 
 ## 🌱 Currently Learning
 - C++ Programming
@@ -86,3 +82,17 @@ I enjoy building projects and continuously improving my programming and analytic
 
 ## 🎯 Career Goal
 To become a skilled Software Engineer and contribute to impactful AI-driven technologies while continuously improving my problem-solving and development skills.
+
+<h2 align="center">📬 Connect With Me</h2>
+
+<p align="center">
+
+<a href="www.linkedin.com/in/anushka-kushwah">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="anushkaofficial183@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
