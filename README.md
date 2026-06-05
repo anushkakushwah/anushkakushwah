@@ -23,12 +23,37 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 
 ## 💻 Tech Stack
 
-### Languages
-- C++
-- Python
-- C
-- SQL
-- R
+### Languages and tools
+<p align="left">
+
+<!-- C -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+
+<!-- C++ -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+<!-- SQL / MySQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+
+<!-- Jupyter Notebook -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+
+<!-- R -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+
+<!-- Excel -->
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
+
+<!-- Power BI -->
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+
+<!-- BigQuery -->
+<img src="https://img.icons8.com/color/48/google-bigquery.png" width="40"/>
+
+</p>
 
 ### Areas of Interest
 - Software Engineering
