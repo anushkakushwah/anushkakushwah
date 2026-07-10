@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-```text
+
 > whoami
 
 ANUSHKA
