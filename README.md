@@ -3,7 +3,7 @@
 </p>
 
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF728&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Anushka" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=31&pause=1000&color=02F71A&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Anushka+Kushwah" alt="Typing SVG" /></a>
 
 ## 🚀 About Me
 
@@ -22,7 +22,7 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 ---
 
 ## 🎓 Certifications
-- Google Data Analytics Professional Certificate
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F718A6&width=435&lines=Google+Data+Analytics+Professional+Certificate" alt="Typing SVG" /></a>
 
 ---
 
