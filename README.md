@@ -22,7 +22,7 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 ---
 
 ## 🎓 Certifications
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F71185&width=435&lines=Google+Data+Analytics+Professional+Certificate" alt="Typing SVG" /></a>
+- Google Data Analytics Professional Certificate
 
 ---
 
