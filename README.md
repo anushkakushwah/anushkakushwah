@@ -1,7 +1,16 @@
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
-# Hi there 👋, I'm Anushka
+<div align="center">
+
+```text
+> whoami
+
+ANUSHKA
+
+> status
+
+🟢 ONLINE
 
 ## 🚀 About Me
 
