@@ -2,15 +2,8 @@
   <img src="banner.png" width="100%">
 </p>
 <div align="center">
-
-
-> whoami
-
-ANUSHKA
-
-> status
-
-🟢 ONLINE
+  
+# Hi there 👋, I'm Anushka
 
 ## 🚀 About Me
 
