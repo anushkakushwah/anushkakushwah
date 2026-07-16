@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=31&pause=1000&color=02F71A&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Anushka+Kushwah" alt="Typing SVG" /></a>
 
 ## 🚀 About Me
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/AllianceDAO-alliance-programmer-dao-pbIavlMZE7TkcVriMM">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV4cXNrbm93anpnbnIzbmNzazFxcmJnb21xbmlyMnJ6dzZyZnM5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif">
 I'm an aspiring Software Engineer with a strong interest in Artificial Intelligence, programming, and problem-solving.
 Currently, I am strengthening my foundations in:
 
