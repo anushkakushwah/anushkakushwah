@@ -95,4 +95,8 @@ To become a skilled Software Engineer and contribute to impactful AI-driven tech
 <img src="https://img.shields.io/badge/Gmail-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://x.com/@AnushkaKus_wah">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
