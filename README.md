@@ -99,4 +99,8 @@ To become a skilled Software Engineer and contribute to impactful AI-driven tech
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
+<a href="https://youtube.com/@upskillverse?si=DXA5t0YRDp-YFuuJ">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 </p>
