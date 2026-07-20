@@ -79,8 +79,9 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 
 I enjoy building projects and continuously improving my programming and analytical skills through hands-on learning.
 ---
+## 📊 GitHub Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_anushkakushwah&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anushkakushwah&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF"/>
 </p>
 
 ## 🎯 Career Goal
