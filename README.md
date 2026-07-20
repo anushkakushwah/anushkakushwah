@@ -79,11 +79,6 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 
 I enjoy building projects and continuously improving my programming and analytical skills through hands-on learning.
 ---
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anushkakushwah&theme=merko&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-</p>
 
 ## 🎯 Career Goal
 To become a skilled Software Engineer and contribute to impactful AI-driven technologies while continuously improving my problem-solving and development skills.
