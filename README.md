@@ -79,10 +79,10 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 
 I enjoy building projects and continuously improving my programming and analytical skills through hands-on learning.
 ---
-## 📊 GitHub Statistics
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushkakushwah&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=anushkakushwah&theme=merko&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </p>
 
 ## 🎯 Career Goal
