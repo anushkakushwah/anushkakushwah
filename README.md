@@ -27,9 +27,8 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 ## 🎓 Certifications
 - Google Data Analytics Professional Certificate
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff66,100:39FF14&height=2&section=header"/>
-## 💻 Tech Stack
 
-### Languages and tools
+## Languages and tools
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
@@ -78,7 +77,7 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 - Fundamentals of Artificial Intelligence and Machine Learning
 
 I enjoy building projects and continuously improving my programming and analytical skills through hands-on learning.
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff66,100:39FF14&height=2&section=header"/>
 
 ## 🎯 Career Goal
 To become a skilled Software Engineer and contribute to impactful AI-driven technologies while continuously improving my problem-solving and development skills.
