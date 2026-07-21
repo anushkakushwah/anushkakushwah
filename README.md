@@ -28,11 +28,11 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 - Google Data Analytics Professional Certificate
 
 ---
-Tech Stack
-![C](https://img.shields.io/badge/C-00FF66?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00FF66?style=for-the-badge&logo=cplusplus&logoColor=black)
-![Python](https://img.shields.io/badge/Python-00FF66?style=for-the-badge&logo=python&logoColor=black)
-![Git](https://img.shields.io/badge/Git-00FF66?style=for-the-badge&logo=git&logoColor=black)
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,r,gcp,git,github,vscode&theme=dark&perline=6" />
+</p>
 
 ### Areas of Interest
 - Software Engineering
