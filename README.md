@@ -4,7 +4,7 @@
 
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00F741&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'+am+Anushka" alt="Typing SVG" /></a>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff66,100:39FF14&height=2&section=header"/>
 ## 🚀 About Me
 <img align="right"
      alt="coding"
