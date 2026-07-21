@@ -69,6 +69,7 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 
 
 ## 🌱 Currently Learning
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff66,100:39FF14&height=2&section=header"/>
 - C++ Programming
 - C Programming
 - Data Structures & Algorithms (DSA)
