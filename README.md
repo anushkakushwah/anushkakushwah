@@ -80,6 +80,12 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 I enjoy building projects and continuously improving my programming and analytical skills through hands-on learning.
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkakushwah&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117" />
+</p>
+
 ## 🎯 Career Goal
 To become a skilled Software Engineer and contribute to impactful AI-driven technologies while continuously improving my problem-solving and development skills.
 
