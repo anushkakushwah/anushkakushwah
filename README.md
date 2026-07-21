@@ -105,7 +105,7 @@ To become a skilled Software Engineer and contribute to impactful AI-driven tech
 </a>
 
 <a href="https://youtube.com/@upskillverse?si=808dlg9uRM-FoThZ">
-<img src="https://skillicons.dev/icons?i=youtube&theme=dark"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=youtube&size=64&reverseBackground=true" alt="youtube" />
 </a>
 
 </p>
