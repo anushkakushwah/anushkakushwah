@@ -84,23 +84,28 @@ I enjoy building projects and continuously improving my programming and analytic
 To become a skilled Software Engineer and contribute to impactful AI-driven technologies while continuously improving my problem-solving and development skills.
 
 <h2 align="center">📬 Connect With Me</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff66,100:39FF14&height=2&section=header"/>
 
 <p align="center">
 
-<a href="www.linkedin.com/in/anushka-kushwah">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/anushka-kushwah">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
 </a>
 
-<a href="anushkaofficial183@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:anushkaofficial183gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
 </a>
 
-<a href="https://x.com/@AnushkaKus_wah">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://github.com/anushkakushwah">
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
 </a>
 
-<a href="https://youtube.com/@upskillverse?si=DXA5t0YRDp-YFuuJ">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://x.com/@Anushkakus_wah">
+<img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
+</a>
+
+<a href="https://youtube.com/@upskillverse?si=808dlg9uRM-FoThZ">
+<img src="https://skillicons.dev/icons?i=youtube&theme=dark"/>
 </a>
 
 </p>
