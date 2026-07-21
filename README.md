@@ -28,10 +28,26 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 - Google Data Analytics Professional Certificate
 
 ---
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,r,gcp,git,github,vscode&theme=dark&perline=6" />
+
+<!-- Skill Icons -->
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,r,git,github,vscode,gcp&theme=dark" />
+
+<br><br>
+
+<!-- Remaining Tech Stack -->
+<img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" height="48"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48"/>
+<img src="https://img.icons8.com/color/48/anaconda.png" height="48"/>
+<img src="https://img.icons8.com/color/48/jupyter.png" height="48"/>
+<img src="https://img.icons8.com/color/48/google-big-query.png" height="48"/>
+
+<!-- MLSA Badge -->
+<img src="https://img.shields.io/badge/MLSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="35"/>
+
 </p>
 
 ### Areas of Interest
@@ -52,12 +68,6 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 
 I enjoy building projects and continuously improving my programming and analytical skills through hands-on learning.
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkakushwah&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117" />
-</p>
 
 ## 🎯 Career Goal
 To become a skilled Software Engineer and contribute to impactful AI-driven technologies while continuously improving my problem-solving and development skills.
