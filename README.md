@@ -28,25 +28,37 @@ Alongside software development, I also have experience in Data Analytics, SQL, R
 - Google Data Analytics Professional Certificate
 
 ---
-<h2 align="center">💻 Tech Stack</h2>
+## 💻 Tech Stack
+
+### Languages and tools
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
 
-<!-- Skill Icons -->
-<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,r,git,github,vscode,gcp&theme=dark" />
+<!-- C / C++ / Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
 
-<br><br>
+<!-- SQL / R -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55"/>
 
-<!-- Remaining Tech Stack -->
-<img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" height="48"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48"/>
-<img src="https://img.icons8.com/color/48/anaconda.png" height="48"/>
-<img src="https://img.icons8.com/color/48/jupyter.png" height="48"/>
-<img src="https://img.icons8.com/color/48/google-big-query.png" height="48"/>
+<!-- Power BI / Tableau / Excel -->
+<img src="https://img.icons8.com/color/48/power-bi.png" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="55"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="55"/>
 
-<!-- MLSA Badge -->
-<img src="https://img.shields.io/badge/MLSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="35"/>
+<!-- IDEs -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55"/>
+<img src="https://img.icons8.com/color/48/dev-c++.png" width="55"/>
+
+<!-- Cloud / Data -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="55"/>
+
+</p>
 
 </p>
 
