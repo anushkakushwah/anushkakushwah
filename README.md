@@ -81,7 +81,9 @@ I enjoy building projects and continuously improving my programming and analytic
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff66,100:39FF14&height=2&section=header"/>
 
 ## 🎯 Career Goal
-To become a skilled Software Engineer and contribute to impactful AI-driven technologies while continuously improving my problem-solving and development skills.
+To become a powerful Computer Science Engineer with strong foundations in software engineering, problem-solving, and Artificial Intelligence—capable of building intelligent, scalable, and impactful technologies that solve real-world problems.
+
+Continuously learning. Building fearlessly. Thinking beyond the ordinary. 🚀🤖
 
 <h2 align="center">📬 Connect With Me</h2>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff66,100:39FF14&height=2&section=header"/>
